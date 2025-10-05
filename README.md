@@ -66,6 +66,7 @@ Pandas (Data cleaning and aggregation)
 
 Matplotlib / Seaborn (Visualization of trends)
 
+![Image Alt](https://github.com/Srujan-hash/Daily-Transaction-Project-/blob/ad416edc708f24e07cad439fa0f542b2161ebc5c/WhatsApp%20Image%202025-10-05%20at%2022.28.59_f4e1f41d.jpg)
 
 
 
@@ -77,5 +78,5 @@ Matplotlib / Seaborn (Visualization of trends)
 
 
 
-Tools
+
 
